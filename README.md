@@ -7,7 +7,7 @@ This projects is my earily project. (November 2011). This project uses XHTML 1.0
 It uses table layout to set component. 
 
 <p align="center">
-  <img src=".gif" />
+  <img src="HTML4.0 website.gif" />
 </p>
 
 
