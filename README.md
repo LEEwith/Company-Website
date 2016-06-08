@@ -4,7 +4,7 @@ This projects is my earily project. (November 2011). This project uses XHTML 1.0
 
 ## Technology 
 
-It uses table layout to set component. 
+It uses table layout to set component. XHTML 1.0, CSS, javascript.
 
 <p align="center">
   <img src="HTML4.0 website.gif" />
